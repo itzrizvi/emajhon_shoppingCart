@@ -1,0 +1,35 @@
+.logo {
+    width: 50%;
+    margin: auto;
+    height: auto;
+}
+
+.logo img {
+    width: 200px;
+    margin: auto;
+    display: block;
+    padding: 25px;
+}
+
+nav {
+    text-align: center;
+    background-color: #FF9800;
+    padding: 20px;
+}
+
+nav a {
+    color: #000000;
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-weight: 600;
+    border: 1px solid transparent;
+    transition: .3s;
+    margin: 0px 5px;
+}
+
+nav a:hover {
+    border: 1px solid #ffffff;
+    color: #FFFFFF;
+    box-shadow: 3px 3px 7px 0px #000000;
+}

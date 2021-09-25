@@ -1,0 +1,31 @@
+.product {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+
+.details h3 {
+    color: #ff9800;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+button.cart-button {
+    outline: none;
+    border: 1px solid #080808;
+    background-color: #ff9800;
+    padding: 10px 19px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+button.cart-button:hover{
+    background-color: #FFFFFF;
+    color: #ff9800;
+    border: 1px solid #ff9800;
+} 
+.icon-color{
+    color: #ff9800;
+}
