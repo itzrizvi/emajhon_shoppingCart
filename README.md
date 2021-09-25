@@ -1,6 +1,6 @@
 <h2>Ema-Jhon E-Commerce Shopping Cart<h2>
 
-<a href="https://ema-jhon-react-itzrizvi.netlify.app/">Live Link of This Project</a>
+<a href="https://ema-jhon-react-itzrizvi.netlify.app/" target="_blank">Live Link of This Project</a>
  
 <ul>
   <li>This is a Simple Shopping Cart</li>
